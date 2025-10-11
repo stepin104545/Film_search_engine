@@ -34,7 +34,7 @@ A natural language movie search system built on the MSRD (Movie Search Ranking D
 1. **Clone the repository**:
 ```bash
 git clone <repository-url>
-cd film_search_engine_deploy
+cd repo
 ```
 
 2. **Install dependencies**:
