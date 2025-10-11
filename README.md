@@ -335,7 +335,6 @@ MSRD (Movie Search Ranking Dataset) by Microsoft Research:
 ## Contact
 
 For questions or issues, please open an issue in the repository.
-
----
+Niranjankumarm12@gmail.com
 
 **Built with Python, scikit-learn, and Streamlit**
