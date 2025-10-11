@@ -11,16 +11,6 @@ A natural language movie search system built on the MSRD (Movie Search Ranking D
 - **Dual Interface**: Command-line tool and Streamlit web application
 - **Fast Performance**: Sub-second search over 9,700 movies
 
-## Screenshots
-
-### Streamlit Web Interface
-
-![Search Interface](Screenshot%202025-10-11%20at%201.25.15%20PM.png)
-*Search interface with natural language query input*
-
-![Search Results](Screenshot%202025-10-11%20at%201.26.11%20PM.png)
-*Search results showing top 5 movies with normalized relevance scores*
-
 ## Quick Start
 
 ### Prerequisites
